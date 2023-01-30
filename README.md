@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @romel91
 - 👀 I’m interested in Full Stack web Development
 - 🌱 I’m currently learning front-end devlopments related works(html,css,js)
-- 💞️ I’m looking to collaborate on an internship
 - 📫 How to reach me -romelhasan741@gmail.com
 
 <!---
