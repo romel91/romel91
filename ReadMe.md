@@ -1,5 +1,7 @@
 # 💫 About Me:
-I am an aspiring full-stack developer currently honing my skills in PHP and Laravel.<br>My journey includes building small applications, learning advanced Laravel features, and integrating frontend and backend technologies.<br>With experience in Python and Frappe from a prior internship, I bring problem-solving skills and an enthusiasm for creating functional web applications.<br> How to reach me -romelhasan741@gmail.com
+Junior Full Stack Developer (Laravel & Vue.js) with hands-on experience in ERP, CRM, and API development. Skilled in
+building scalable web apps, customizing workflows, and integrating modern frontend with PHP backends. Passionate
+about problem-solving, clean code, and continuous learning.<br> How to reach me -romelhasan741@gmail.com
 
 
 # 💻 Tech Stack:
